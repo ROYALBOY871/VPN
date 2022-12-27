@@ -1,0 +1,60 @@
+{
+  "apkFileName": "Secure_VPN_v4.0.12(202211251)_src.apk",
+  "VersionInfo": {
+    "versionName": "4.0.12",
+    "versionCode": "202211251"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {
+    "play-services-measurement.properties": "8",
+    "firebase-abt.properties": "8",
+    "billing.properties": "8",
+    "play-services-ads-lite.properties": "8",
+    "play-services-ads-identifier.properties": "8",
+    "play-services-appset.properties": "8",
+    "play-services-ads.properties": "8",
+    "firebase-config.properties": "8",
+    "firebase-annotations.properties": "8",
+    "play-services-tasks.properties": "8",
+    "play-services-measurement-sdk-api.properties": "8",
+    "firebase-components.properties": "8",
+    "play-services-basement.properties": "8",
+    "firebase-measurement-connector.properties": "8",
+    "play-services-measurement-api.properties": "8",
+    "firebase-common.properties": "8",
+    "play-services-measurement-base.properties": "8",
+    "firebase-installations.properties": "8",
+    "play-services-stats.properties": "8",
+    "stamp-cert-sha256": "8",
+    "play-services-measurement-sdk.properties": "8",
+    "firebase-installations-interop.properties": "8",
+    "androidsupportmultidexversion.txt": "8",
+    "play-services-base.properties": "8",
+    "firebase-analytics.properties": "8",
+    "play-services-ads-base.properties": "8",
+    "user-messaging-platform.properties": "8",
+    "play-services-measurement-impl.properties": "8"
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": [
+    "resources.arsc",
+    "png",
+    "res/rN",
+    "res/ug"
+  ],
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sparseResources": false,
+  "version": "2.4.0-221119",
+  "sharedLibrary": false,
+  "sdkInfo": {
+    "minSdkVersion": "16",
+    "targetSdkVersion": "31"
+  }
+}
